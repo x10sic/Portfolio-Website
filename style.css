@@ -116,9 +116,7 @@ header {
 
 .about-content img {
   height: 200px;
-  width: 150px;
-  object-fit: cover;
-  border-radius: 50%;
+  width: 158px;
 }
 
 .about-content p {
